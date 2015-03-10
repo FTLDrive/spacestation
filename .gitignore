@@ -1,11 +1,11 @@
-# Compiled Object files
+# Generated folders, not necessary to keep in version control
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
 
-# Precompiled Headers
-
-# Compiled Dynamic libraries
-
-# Fortran module files
-
-# Compiled Static libraries
-
-# Executables
+# Visual Studio Project files
+ProjectName.opensdf
+ProjectName.sdf
+ProjectName.sln
+ProjectName.v12.suo
